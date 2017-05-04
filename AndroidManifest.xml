@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.digitalcampus.mobile.learning"
+    package="org.ccp_ict.nepal.oppia"
     android:versionCode="57"
     android:versionName="@string/version_name">
 
@@ -17,7 +17,7 @@
 
     <uses-permission android:name="android.permission.WAKE_LOCK" />
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
-    <permission android:name="org.digitalcampus.mobile.learning.C2D_MESSAGE" android:protectionLevel="signature" />
+    <permission android:name="org.ccp_ict.nepal.oppia.C2D_MESSAGE" android:protectionLevel="signature" />
     <uses-permission android:name="org.digitalcampus.mobile.learning.C2D_MESSAGE" />
 
     <application
