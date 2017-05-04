@@ -27,7 +27,7 @@ import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import org.digitalcampus.mobile.learning.R;
+import org.ccp_ict.nepal.oppia.R;
 import org.digitalcampus.mobile.quiz.Quiz;
 import org.digitalcampus.oppia.model.QuizFeedback;
 

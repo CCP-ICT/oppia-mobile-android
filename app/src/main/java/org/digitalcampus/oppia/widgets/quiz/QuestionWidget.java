@@ -20,7 +20,7 @@ package org.digitalcampus.oppia.widgets.quiz;
 import java.util.List;
 import java.util.Locale;
 
-import org.digitalcampus.mobile.learning.R;
+import org.ccp_ict.nepal.oppia.R;
 import org.digitalcampus.mobile.quiz.model.Response;
 import org.digitalcampus.oppia.activity.PrefsActivity;
 

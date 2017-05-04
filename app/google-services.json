@@ -1,20 +1,20 @@
 {
   "project_info": {
-    "project_number": "650899919285",
-    "project_id": "firebase-brightfuture"
+    "project_number": "855402352877",
+    "project_id": "ccp-nepal-oppiamobile"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:650899919285:android:7a5999343929f4a4",
+        "mobilesdk_app_id": "1:855402352877:android:191fd6a56f103f31",
         "android_client_info": {
-          "package_name": "org.digitalcampus.mobile.learning"
+          "package_name": "org.ccp_ict.nepal.oppia"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAdMct9eGjYus6yJn39vssoZFHwHunqrFk"
+          "current_key": "AIzaSyByI29HQt0NKgZwBHcxbHGrGAU8xMADTHU"
         }
       ],
       "services": {
