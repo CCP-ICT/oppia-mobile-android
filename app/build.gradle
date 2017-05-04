@@ -15,7 +15,7 @@ android {
     defaultConfig {
         applicationId "org.ccp_ict.nepal.oppia"
         minSdkVersion 14
-        targetSdkVersion 25
+        targetSdkVersion 23
         multiDexEnabled true
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
