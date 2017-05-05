@@ -31,8 +31,8 @@
 
     <string name="service_tracker">OppiaMobile Tracker Service</string>
 
-    <string name="fragment_welcome_title">Welcome to Smart Paramarsha</string>
-    <string name="fragment_welcome_desc">Smart Paramarsha was developed using OppiaMobile which is a mobile learning platform for delivering learning content, video and quizzes.\n\n\'Oppia\' means \'to learn\' in Finnish</string>
+    <string name="fragment_welcome_title">Welcome to Smart Paramarshad</string>
+    <string name="fragment_welcome_desc">Smart Paramarshad was developed using OppiaMobile which is a mobile learning platform for delivering learning content, video and quizzes.\n\n\'Oppia\' means \'to learn\' in Finnish</string>
     <string name="fragment_welcome_login_info">To get started with OppiaMobile, you will need to register or login.</string>
     <string name="fragment_welcome_privacy">We take your privacy seriously, <a href="http://digital-campus.org/privacy/">find out more about Digital Campus\'s privacy policy</a></string>
 
